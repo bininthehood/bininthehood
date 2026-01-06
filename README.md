@@ -1,16 +1,20 @@
-## Hi there 👋
+# 임현빈 | Backend / System Developer
 
-<!--
-**bininthehood/bininthehood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 소개
+- Java / Spring 기반 백엔드 개발자
+- 대용량 파일 처리, 배치, 녹취·백업 시스템 경험
+- 금융권(대면 녹취, 분리보관) 시스템 실무 경험
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Java, Spring / Spring Boot
+- MyBatis, JPA, MySQL
+- Linux, Shell, Git
+- (부가) C#, WPF, Audio Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 주요 관심사
+- 대용량 데이터 처리
+- 안정적인 서버 구조
+- 로그 / 모니터링 / 장애 대응
+
+## 📫 Contact
+- Email: dusgod30@gmail.com
